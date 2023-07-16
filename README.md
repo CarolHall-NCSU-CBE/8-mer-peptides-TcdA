@@ -14,7 +14,7 @@ The source codes are in /code/. Compiler such as gfortran or ifort is required
 5. pdbfiles-This is an empty directory where the pdbfiles will be stored of the new peptides that are designed
 
 # Data for paper
-/MD simulation files-SA1 to SA7/-This directory contains the following files:
+/SA1 to SA7/-This directory contains the following files:
 1. SA1-SA7: Each folder contains the topology file and final PDB file from a 100 ns simulation for runs 1 to 3
 
 
