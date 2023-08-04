@@ -17,7 +17,7 @@ The source codes are in /code/. Compiler such as gfortran or ifort is required
 /SA1 to SA7/-This directory contains the following files:
 1. SA1-SA7: Each folder contains the topology file and final PDB file from a 100 ns simulation for runs 1 to 3
 
-#Reproducing figures
+# Reproducing figures
 /Figures/-This directory contains the raw data for all plots in the Main Text and Supplemnetary Material. It also contains the matlab code for image processing  in the bead assay
 
 
